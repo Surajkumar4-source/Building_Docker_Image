@@ -1,5 +1,6 @@
 
-Dockerfile Structure
+# Dockerfile Structure
+
 A Dockerfile is a script containing a series of instructions to assemble a Docker image. Each line of a Dockerfile specifies a step in the process of building the image. Here’s a breakdown of commonly used Dockerfile instructions with a sample project example.
 
 Key Dockerfile Instructions
